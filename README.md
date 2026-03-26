@@ -13,6 +13,8 @@ This project focuses on analyzing employee retention and attrition trends using 
 - Cleaned and transformed data using Power Query
 - ✅ Merged two Excel sheets into one using Power Query (Merge Queries)
 - ✅ Applied a Left Join using common columns between the two tables to combine relevant data
+- ✅ Created bins for Monthly Income to analyze attrition across salary ranges
+- ✅ Performed grouping on Job Satisfaction to categorize values into Poor, Average, Good, and Excellent  
 - Handled missing values and ensured data consistency
 
 ## 📊 Dashboard Features  
@@ -24,16 +26,16 @@ This project focuses on analyzing employee retention and attrition trends using 
 - Average Monthly Income: 26,016
 
 🔹 Visual Insights
-1. __Attrition Rate by Department - Stacked Column Chart__  
+1️⃣ __Attrition Rate by Department - Stacked Column Chart__  
 Highlights which departments have higher employee turnover
 
-2. __Attrition vs Years Since Last Promotion - Stacked Bar Chart__  
+2️⃣ __Attrition vs Years Since Last Promotion - Stacked Bar Chart__  
 Shows correlation between promotions and employee retention
-3. __Total Employees by Department - Donut Chart__  
+3️⃣ __Total Employees by Department - Donut Chart__  
 Displays workforce distribution across departments
-4. __Attrition Rate by Monthly Income - Area Chart__  
+4️⃣ __Attrition Rate by Monthly Income - Area Chart__  
 Helps understand how salary impacts attrition
-5. __Work-Life Balance by Job Role- 100% Stacked Bar Chart__  
+5️⃣ __Work-Life Balance by Job Role- 100% Stacked Bar Chart__  
 Compares employee satisfaction levels across different roles  
 
 🔹 Slicers  
