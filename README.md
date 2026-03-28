@@ -25,16 +25,15 @@ This project focuses on analyzing employee retention and attrition trends using 
 - Total Attrition: 25,105
 - Average Monthly Income: 26,016
 
-🔹 Visual Insights
+🔹 Visual Insights  
 1️⃣ __Attrition Rate by Department - Stacked Column Chart__  
-Highlights which departments have higher employee turnover
-
+Highlights which departments have higher employee turnover  
 2️⃣ __Attrition vs Years Since Last Promotion - Stacked Bar Chart__  
-Shows correlation between promotions and employee retention
+Shows correlation between promotions and employee retention  
 3️⃣ __Total Employees by Department - Donut Chart__  
-Displays workforce distribution across departments
+Displays workforce distribution across departments  
 4️⃣ __Attrition Rate by Monthly Income - Area Chart__  
-Helps understand how salary impacts attrition
+Helps understand how salary impacts attrition  
 5️⃣ __Work-Life Balance by Job Role- 100% Stacked Bar Chart__  
 Compares employee satisfaction levels across different roles  
 
